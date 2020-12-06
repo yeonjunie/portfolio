@@ -20,7 +20,7 @@ class About extends React.Component {
         <div class="aboutintro">
         <div class="abouttext">
           <div class="nicetomeet">Nice to meet you!</div>
-            <div class="aboutdescription">Hello! I'm Name (she/her), a senior at Brown University studying Computer Science and Economics. I immersed myself in tech after I came to college and took my very first programming course out of pure curiosity. Coding allowed me to exercise my problem solving skills, think critically, and work with highly driven peers. Since then, I've worked on various meaningful projects both in and out of the classroom.</div>
+            <div class="aboutdescription">Hello! I'm Name (she/her), a senior at Brown University studying Computer Science and Economics. I immersed myself in tech after I came to college and took my very first programming course out of pure curiosity. Coding allowed me to exercise my problem solving skills, think critically, and work with highly driven peers. Since then, I've worked on various meaningful projects both in and out of the classroom. Through these experiences, I hope to create an impact on my community and beyond.</div>
           </div>
         </div>
         <br></br>

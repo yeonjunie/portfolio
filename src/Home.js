@@ -50,9 +50,9 @@ class Home extends React.Component {
         </Container>        
         </div>
         <Project smallTitle={"ITERATIVE DESIGN"} title={"Electry: Linkedin for Blue Collar Workers"} image={"https://i.ibb.co/vcgb7Td/electry.png"} click={this.goElectry}/>
+        <Project smallTitle={"DESIGN APPLICATION"} title={"Gooey: Streamlining the Prototyping Process"} image ={"https://i.ibb.co/pymMH7N/Screen-Shot-2020-12-06-at-18-39-42.png"} click={this.goGooey}/>
         <Project smallTitle={"RESPONSIVE DESIGN"} title={"ChongQing House: Authentic Chinese Restaurant"} image={"https://i.ibb.co/ygfQJ0C/Screen-Shot-2020-12-04-at-20-53-42.png"} click={this.goChongQingHouse}/>
         <Project smallTitle={"REACT DEVELOPMENT"} title={"Sports Hats & Caps: online sports shop"} image={"https://i.ibb.co/LRtMHr0/Screen-Shot-2020-12-04-at-21-01-58.png"} click={this.goSportsHats}/>
-        <Project smallTitle={"DESIGN APPLICATION"} title={"Gooey: Streamlining the Prototyping Process"} image ={"https://i.ibb.co/5GLYfqw/Screen-Shot-2020-12-06-at-17-40-34.png"} click={this.goGooey}/>
         <div className = "footercenter">
         <Footer />
         </div>

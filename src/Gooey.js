@@ -22,7 +22,7 @@ class Gooey extends React.Component {
       <div class="electry">
         <Header goToHome={this.goHome} goToAbout={this.goAbout} page={""}/>
         <div class="electry-banner">
-          <img class="gooey-img" src="https://i.ibb.co/thH3rvP/Screen-Shot-2020-12-06-at-17-14-01.png"/>
+          <img class="gooey-img" src="https://i.ibb.co/pymMH7N/Screen-Shot-2020-12-06-at-18-39-42.png"/>
         </div>
         <section className="electry-section1">
           <div className="electry-title">Gooey: Streamlining the Prototyping Process</div>

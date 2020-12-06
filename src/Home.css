@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+.home {
+  font-family: 'Inconsolata', monospace;
+}
+
+img {
+width: 90%;
+height:90%;
+}
+
+.intro {
+  padding-top: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 60px;
+  padding-bottom: 30px;
+}
+
+.hello {
+  padding-right: 70px;
+  padding-top: 130px;
+}
+
+@media screen and (max-width: 766px) {
+  .hello {
+    padding-top:10px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .name {
+    padding-top:0px;
+  }
+}
+.footercenter {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

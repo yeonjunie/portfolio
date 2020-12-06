@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+.footer {
+  padding:50px;
+  font-family: 'Inconsolata', monospace;
+}
+
+.middle-icon {
+  padding-left:15px;
+  padding-right:15px;
+}
+.footerText {
+  padding-top:30px;
+  padding-left:15px;
+}
+.connect {
+  padding-left: 7px;
+  padding-bottom:10px;
+}

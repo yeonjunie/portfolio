@@ -1,0 +1,31 @@
+.project {
+  padding-left:70px;
+  padding-right:70px;
+  padding-bottom: 30px;
+  font-family: 'Inconsolata', monospace;
+}
+.smallTitle {
+  color: #333333;
+  font-size: 18px;
+  font-weight: 200;
+  padding-bottom: 0px;
+}
+.title {
+  color: #111111;
+  font-size:28px;
+  font-weight: 500;
+  margin-top:-25px;
+  cursor: pointer;
+}
+
+.image-project {
+  border: 2px solid #7e7c7c;
+  /* border-radius: 30px; */
+  width:80%
+}
+
+.image-project:hover {
+  width:79%;
+}
+
+

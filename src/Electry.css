@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+.electry {
+  font-family: 'Inconsolata', monospace;
+}
+.electry-banner {
+  display: flex;
+  justify-content: center;
+  padding-top:120px;
+  padding-left:50px;
+  padding-right:50px;
+  padding-bottom: 50px;
+}
+
+.electry-img {
+  border: 2px solid #7e7c7c;
+}
+
+.electry-title {
+  font-weight: bold;
+  font-size:30px;
+  padding-bottom:30px;
+}
+
+.electry-title-description {
+  padding-bottom:30px;
+}
+.type-section { 
+  padding-right:10px;
+}
+
+.date-section{
+  padding-right:10px;
+}
+.tools-section {
+  padding-right:10px;
+}
+section{
+  padding-left:120px;
+  padding-right:120px;
+  padding-bottom:50px;
+}
+
+.left-side {
+  padding-right:15px;
+}
+
+.github-button {
+  margin-right: 20px;
+}
+
+.button-group {
+  display:flex;
+  justify-content: center;
+}
+
+.small-title-side {
+  color:gray;
+
+}
+
+.chong-button {
+  padding-top:20px;
+}
+
+.image-description {
+  color: gray;
+  font-size:13px;
+}
+
+.col-details {
+  margin-bottom:25px;
+}
+.project-style-image {
+  height:fixed;
+  width:fixed;
+  border: 0.2px solid gray;
+}
+
+.single-style-image {
+  width:300px;
+  height:300px;
+}
+
+@media screen and (max-width: 566px) {
+  section{
+    padding-left:50px;
+    padding-right:50px;
+    padding-bottom:50px;
+  }
+}
+.visual-style-image {
+  width:70%;
+}
+
+.gooey-style-image {
+  border: 0.2px solid gray;
+}

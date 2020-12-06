@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+.about {
+  font-family: 'Inconsolata', monospace;
+}
+
+.aboutintro {
+  padding-top: 70px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.nicetomeet {
+  font-weight: bold;
+  font-size: 45px;
+  padding-bottom: 30px;
+}
+
+.imageplacement{
+  display: flex;
+  justify-content: center;
+}
+
+.abouttext {
+  padding-top: 70px;
+}
+
+.experiencesection {
+  padding-left: 70px;
+  padding-right: 100px;
+}
+
+.experiencetitle {
+  font-weight: bold;
+  font-size: 30px;
+  padding-top:60px;
+}
+@media screen and (max-width: 766px) {
+  .experiencetitle {
+    padding-top:0px;
+  }
+  .aboutintro {
+    padding-bottom:0px;
+  }
+}
+
+.section-experience {
+  padding-top:20px;
+}
+.section-title {
+  font-weight: bold;
+  margin-bottom:0px;
+}
+.summertime {
+  text-align: right;
+}
+
+.actimage {
+  margin-top: 0px;
+}

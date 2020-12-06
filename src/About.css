@@ -39,14 +39,7 @@
   font-size: 30px;
   padding-top:60px;
 }
-@media screen and (max-width: 766px) {
-  .experiencetitle {
-    padding-top:0px;
-  }
-  .aboutintro {
-    padding-bottom:0px;
-  }
-}
+
 
 .section-experience {
   padding-top:20px;
@@ -62,3 +55,24 @@
 .actimage {
   margin-top: 0px;
 }
+
+.aboutdescription {
+  padding-left:200px;
+  padding-right:200px;
+}
+
+@media screen and (max-width: 766px) {
+  .experiencetitle {
+    padding-top:0px;
+  }
+  .aboutintro {
+    padding-bottom:0px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .aboutdescription {
+    padding-left:30px;
+    padding-right:30px;
+  }
+}
+
